@@ -10,6 +10,13 @@ Brescia.
 
 Versione pubblicata: <https://freeway-1f7fe.web.app/>
 
+## Prova nel browser
+
+[Apri FREE WAY su GitHub Pages](https://lorenzomp7.github.io/EnactusProject/)
+
+Il workflow `.github/workflows/pages.yml` pubblica l'app su GitHub Pages a ogni
+push sul branch `master`.
+
 ## Funzionalità
 
 - Accesso con email e password, con Google oppure come ospite (Firebase Auth).
